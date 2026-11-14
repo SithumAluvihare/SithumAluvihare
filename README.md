@@ -22,7 +22,7 @@ I'm a third-year **Electrical and Information Engineering** undergraduate at the
 - 🎯 **Long-term goal:** chip design, building the silicon behind the next generation of AI hardware
 - 🔭 **Now building:** Gemini-powered Windows tools and a calculator hub for Sri Lanka
 - 🏆 **Competing:** Google AI Builder Cup 2026 with team **QuantumNest**
-- 🧑‍🔧 **Experience:** intern at the National Water Supply and Drainage Board
+- 🧑‍🔧 **Experience:** intern at Sri Lanka Telecom
 - ♟️ **Off the keyboard:** internationally rated chess player and university swimmer
 
 ## 🚀 Projects
