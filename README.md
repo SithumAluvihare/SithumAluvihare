@@ -77,9 +77,6 @@ I'm a third-year **Electrical and Information Engineering** undergraduate at the
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SithumAluvihare&show_icons=true&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=818cf8&text_color=e2e8f0" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SithumAluvihare&layout=compact&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e2e8f0" alt="Top languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SithumAluvihare&hide_border=true&background=0f172a&ring=22d3ee&fire=818cf8&currStreakLabel=22d3ee&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="GitHub streak" />
 
 </div>
