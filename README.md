@@ -13,6 +13,10 @@
 <img src="https://img.shields.io/badge/IESL-Member-4f46e5?style=flat-square" alt="IESL Member" />
 <img src="https://img.shields.io/badge/Kandy-Sri%20Lanka%20🇱🇰-0f172a?style=flat-square" alt="Kandy, Sri Lanka" />
 
+<br/><br/>
+
+<a href="https://sithumaluvihare.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
 </div>
 
 ## ⚡ About me
@@ -41,15 +45,17 @@ I'm a third-year **Electrical and Information Engineering** undergraduate at the
 
 ### 💻 Software
 
-| Project | What it is | Tech |
-| :-- | :-- | :-- |
-| **[VidFetch](https://github.com/SithumAluvihare/vidfetch)** | Free Windows video downloader with a clean UI | yt-dlp, FFmpeg |
-| **Pointr** 🚧 | Screen-aware AI buddy that explains what's on your screen | Gemini API, Windows |
-| **Sinhala Screen Translator** 🚧 | Drag over any text on screen, get the Sinhala translation in a popup | WPF, OCR, Gemini API |
-| **Kiyada** 🚧 | Calculator hub for Sri Lanka, starting with the CEB electricity bill | HTML, CSS, JavaScript |
-| **[Skillshare LMS](https://github.com/SithumAluvihare/Skillshare-LMS)** | Learning management web platform | MongoDB, Express, React, Node.js |
-| **[Clinical Management System](https://github.com/SithumAluvihare/Clinical-Management-System-for-a-Hospital)** | Hospital clinic management application | C# |
-| **Smart Home Energy Model** | Multiple linear regression on a smart-home energy dataset | Python, scikit-learn |
+| Project | What it is | Tech | Links |
+| :-- | :-- | :-- | :-- |
+| **Sinhala Voice** | Real-time English → Sinhala voice translation for YouTube tabs and live speech | JavaScript, Web Audio, Gemini Live API | [Repo](https://github.com/SithumAluvihare/Sinhala-Voice) · [Live](https://sithumaluvihare.github.io/Sinhala-Voice/) |
+| **VidFetch** | Free Windows video downloader with a clean UI | yt-dlp, FFmpeg | [Repo](https://github.com/SithumAluvihare/vidfetch) · [Site](https://sithumaluvihare.github.io/vidfetch/) |
+| **Sinhala Screen Translator** 🚧 | Drag over any text on screen, get the Sinhala translation in a popup | WPF, OCR, Gemini API | [Repo](https://github.com/SithumAluvihare/Sinhala-Screen-Translator) · [Site](https://sithumaluvihare.github.io/Sinhala-Screen-Translator/) |
+| **Kiyada** 🚧 | Calculator hub for Sri Lanka, starting with the CEB electricity bill | HTML, CSS, JavaScript | [Repo](https://github.com/SithumAluvihare/Kiyada) · [Live](https://sithumaluvihare.github.io/Kiyada/) |
+| **Pointr** 🚧 | Screen-aware AI buddy that explains what's on your screen | Gemini API, Windows | |
+| **Skillshare LMS** | Learning management web platform | MongoDB, Express, React, Node.js | [Repo](https://github.com/SithumAluvihare/Skillshare-LMS) |
+| **Clinical Management System** | Hospital clinic management application | C# | [Repo](https://github.com/SithumAluvihare/Clinical-Management-System-for-a-Hospital) |
+| **Personal portfolio** | My portfolio website | HTML, CSS | [Repo](https://github.com/SithumAluvihare/My-Portfolio) · [Live](https://sithumaluvihare.github.io/My-Portfolio/) |
+| **Smart Home Energy Model** | Multiple linear regression on a smart-home energy dataset | Python, scikit-learn | |
 
 <sub>🚧 = in progress</sub>
 
